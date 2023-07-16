@@ -1,6 +1,6 @@
 <!-- Hi skid <3 -->
 
-<h2 align="center"><img src="https://s8.gifyu.com/images/979447220829032478.gif" height="25px"> Arh-Project<a href="https://discord.gg/onlp"></a></h2>
+<h2 align="center"><img src="https://s8.gifyu.com/images/979447220829032478.gif" height="25px"> WokszXD-Project<a href="https://discord.gg/onlp"></a></h2>
 
 <p align="center">
 
@@ -25,7 +25,7 @@
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=m&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Salampahah&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=m&theme=radical&hide_border=false)<br/>
 
@@ -33,7 +33,7 @@
 
 
 
-![](https://github-profile-trophy.vercel.app/?username=m&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Salampahah&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
