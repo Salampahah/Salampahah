@@ -1,6 +1,6 @@
 <!-- Hi skid <3 -->
 
-<h2 align="center"><img src="https://s8.gifyu.com/images/979447220829032478.gif" height="25px"> Arh-Project<a href="https://discord.gg/onlp"></a></h2>
+<h2 align="center"><img src="https://s8.gifyu.com/images/979447220829032478.gif" height="25px">WokszXD-Project<a href="https://discord.gg/onlp"></a></h2>
 
 <p align="center">
 
@@ -25,7 +25,7 @@
 ```
 🟩 Whatsapp : wa.me/6285279323958
 🟦 Telegram : https://t.me/WokszXD
-🔵 Chnnel    : https://t.me/WokszXDStore
+🔵 Channel    : https://t.me/WokszXDStore
 ```
 
 [![My Skills](https://skillicons.dev/icons?i=java,linux,js,html,css,python,php,bash,azure,docker,gcp)](https://skillicons.dev)
